@@ -4,11 +4,11 @@ This project enables controlling a whiteboard writing application using voice co
 Project Structure
 - `main_writer.py`  
   Main application controlling the whiteboard writing.
-- `speech_module/`  
+- `speech_module`  
   Handles speech recognition and voice command processing.
-- `camera_module/`  
+- `camera_module`  
   Manages camera operations and image capturing.
-- `cloud_module/`  
+- `cloud_module`  
   Integrates cloud functionalities such as storage or API communication.
 - `requirements.txt`  
   Lists all Python dependencies required for the project.
