@@ -2,14 +2,16 @@
 This project enables controlling a whiteboard writing application using voice commands and integrates camera and cloud modules.
 
 Project Structure
-- `main_writer.py`  
-  Main application controlling the whiteboard writing.
-- `speech_module`  
-  Handles speech recognition and voice command processing.
-- `camera_module`  
-  Manages camera operations and image capturing.
-- `cloud_module`  
-  Integrates cloud functionalities such as storage or API communication.
+- `whiteboard.py`  
+  The overall system which integrates all the functions.
+- `write_module.py`  
+  Handles the writing functions.
+- `erase_module.py`  
+  Manages the erasing functions.
+- `gcode_data.py`  
+  Contains all the G-code commands used for the writing module.
+- `config.json` 
+  Saves all the calibration values for the writing and erasing head.
 - `requirements.txt`  
   Lists all Python dependencies required for the project.
 
