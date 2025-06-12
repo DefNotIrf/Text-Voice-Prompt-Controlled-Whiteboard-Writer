@@ -10,7 +10,7 @@ Project Structure
   Manages the erasing functions.
 - `gcode_data.py`  
   Contains all the G-code commands used for the writing module.
-- `config.json` 
+- `config.json`
   Saves all the calibration values for the writing and erasing head.
 - `requirements.txt`  
   Lists all Python dependencies required for the project.
