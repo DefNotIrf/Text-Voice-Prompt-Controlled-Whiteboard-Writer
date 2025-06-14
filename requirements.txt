@@ -1,0 +1,14 @@
+opencv-python
+numpy
+easyocr
+torch
+transformers
+pillow
+sounddevice
+pyttsx3
+vosk
+fuzzywuzzy
+python-Levenshtein
+google-auth
+google-auth-oauthlib
+google-api-python-client

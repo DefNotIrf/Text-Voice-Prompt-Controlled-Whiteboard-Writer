@@ -1,0 +1,8 @@
+{
+  "center_z": -1.0,
+  "write_touch_z": -4.0,
+  "write_lift_z": 4.0,
+  "erase_touch_z": 8.0,
+  "erase_lift_z": -1.0,
+  "feedrate": 1500.0
+}
