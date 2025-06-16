@@ -34,6 +34,20 @@ The Prompt/Voice-Controlled Whiteboard Writer is a CNC-based automation system t
 2. Download the required libraries listed in 'requirements.txt'
 3. Download the 'vosk-model-small-en-us-0.15' from their website: https://alphacephei.com/vosk/models, extract it and place it in a folder labelled 'models'
 
+## System Preview
+
+![System Demo](./docs/product.jpg)
+
+> *Voice-prompted whiteboard writer in action — portable, modular, and AI-integrated.*
+
+---
+
+## Final Report
+
+You can read the full technical documentation here:
+👉 [IDP Final Report (PDF)](./docs/IDP_Final_Report_G6.pdf)
+
+
 ## Contributors
 Muhammad Irfan, Tengku Muhammad Afnan Faliq, Syabab Alhaqqi, Asyraaf Aiman
 
