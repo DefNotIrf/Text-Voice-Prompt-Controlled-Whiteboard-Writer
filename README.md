@@ -35,7 +35,7 @@ The Prompt/Voice-Controlled Whiteboard Writer is a CNC-based automation system t
 3. Download the 'vosk-model-small-en-us-0.15' from their website: https://alphacephei.com/vosk/models, extract it and place it in a folder labelled 'models'
 
 ## Contributors
-Muhammad Irfan, Tengku Muhammad Afnan Faliq, Syabab Alhaqqi. Asyraaf Aiman
+Muhammad Irfan, Tengku Muhammad Afnan Faliq, Syabab Alhaqqi, Asyraaf Aiman
 
 ## License
 This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
