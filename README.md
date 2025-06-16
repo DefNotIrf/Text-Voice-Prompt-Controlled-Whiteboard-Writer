@@ -45,8 +45,7 @@ The Prompt/Voice-Controlled Whiteboard Writer is a CNC-based automation system t
 ## Final Report
 
 You can read the full technical documentation here:
-👉 [IDP Final Report (PDF)](.docs/IDP Project Report G6.pdf)
-
+👉 [IDP Final Report (PDF)](./docs/IDP%20Project%20Report%20G6.pdf)
 
 ## Contributors
 Muhammad Irfan, Tengku Muhammad Afnan Faliq, Syabab Alhaqqi, Asyraaf Aiman
